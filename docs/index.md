@@ -6,7 +6,10 @@
 3. Worthnoting that you can use html files to render a page or use markdown files. The page is built by github backend engine, jekyll, I suppose. I prefer markdown files. Neat. 
 4. If I have a _"/docs/first.md"_ file in my repository, you can visit _"zangshayang1.github.io/github-project-page-sample/first"_ to view it. If I have a _"/docs/index.md"_ file in my repository, you can visit _"zangshayang1.github.io/github-project-page-sample/"_ to view it. __You got the idea.__
 5. If it doesn't show, give it some time. 
-6. Final word: the config file has something to do with the theme I chose.
+6. Final word: 
+  a. The config file has something to do with the theme I chose. 
+  b. The page will be private if this repository is private. 
+  c. You can customize the top url "zangshayang1.github.io". Find more in setting. See ya.
 
 __Here are some bold sample links I suppose.__
 
