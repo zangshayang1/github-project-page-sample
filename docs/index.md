@@ -6,10 +6,10 @@
 3. Worthnoting that you can use html files to render a page or use markdown files. The page is built by github backend engine, jekyll, I suppose. I prefer markdown files. Neat. 
 4. If I have a _"/docs/first.md"_ file in my repository, you can visit _"zangshayang1.github.io/github-project-page-sample/first"_ to view it. If I have a _"/docs/index.md"_ file in my repository, you can visit _"zangshayang1.github.io/github-project-page-sample/"_ to view it. __You got the idea.__
 5. If it doesn't show, give it some time. 
-
+6. Final word: the config file has something to do with the theme I chose.
 
 __Here are some bold sample links I suppose.__
 
-[Link to first](./firstDir/first.md)
+[Link to first](./first.md)
 
 [Link to second](./second.md)
